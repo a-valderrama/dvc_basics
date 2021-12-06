@@ -1,2 +1,3 @@
-# dvc_basics
-Getting started with dvc 
+# DVC-Basics
+### Getting started with dvc 
+ - https://dvc.org/doc/start/data-and-model-versioning
